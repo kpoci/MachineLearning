@@ -1,0 +1,11 @@
+user_input,intent,entities
+I want to book a flight to New York,book_flight,New York
+I need to book a flight to Tokyo.,book_flight,Tokyo
+I?m looking to reserve a flight to London.,book_flight,London
+Can you help me find a flight to Paris?,book_flight,Paris
+I want to arrange a flight to Sydney.,book_flight,Sydney
+What's the weather forecast for New York later?,get_weather,New York
+How's the weather in Tokyo looking for today?,get_weather,Tokyo
+Do you know what the weather will be like in Paris tomorrow?,get_weather,Paris
+Can you tell me the weather in Sydney next week,get_weather,Sydney
+What?s the weather going to be like in Rome tomorrow?,get_weather,Rome
